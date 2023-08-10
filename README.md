@@ -1,4 +1,4 @@
-# Breast-cancer-classification-using-MAchine-Learning
+# Breast-cancer-classification-using-Machine-Learning
 Breast cancer classification using machine learning is a common task where we aim to predict whether a breast tumor is malignant (cancerous) or benign (non-cancerous) based on certain features or characteristics of the tumor. Machine learning algorithms can analyze patterns in data and learn from previous examples to make predictions on new, unseen instances.
 
 Here's a general approach for breast cancer classification using machine learning:
